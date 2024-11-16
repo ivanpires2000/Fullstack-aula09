@@ -13,11 +13,11 @@
     <br/>
 
     <?php
-        echo 'Olá, Guilherme';
+        echo 'Olá, Ivan';
         echo '<br/>';
 
         //Cria uma variável chamada ano_nascimento
-        $ano_nascimento = 2004;    
+        $ano_nascimento = 1983;    
 
         //Cria uma variável  chamada ano_atual, que armazena o ano em que estamos
         $ano_atual = 2024;

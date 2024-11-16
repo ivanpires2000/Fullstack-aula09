@@ -35,6 +35,6 @@
     <br>
     <a href="calculadora.php">Ir para a calculadora</a>
     <br>
-    <a href="calculadora.php">Ir para a tabela</a>
+    <a href="tabela.php">Ir para a tabela</a>
 </body>
 </html>
